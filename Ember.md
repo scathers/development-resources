@@ -1,6 +1,7 @@
 # Ember.js Resources
 
 ## Addons
+* [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Decorators that simplify common things like computed properties
 * [ember-noscript](https://www.npmjs.com/package/ember-noscript) - Adds a message for those who have JavaScript disabled
 
 ## Articles
