@@ -6,3 +6,7 @@
 
 ## Articles
 * [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember)
+
+## Progressive Web Apps (PWAs)
+* [ember-web-app](https://github.com/san650/ember-web-app) - Helps configure manage manifest.json and meta tags
+* [ember-service-worker](https://github.com/DockYard/ember-service-worker)
