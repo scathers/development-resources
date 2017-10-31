@@ -10,3 +10,6 @@
 ## Progressive Web Apps (PWAs)
 * [ember-web-app](https://github.com/san650/ember-web-app) - Helps configure manage manifest.json and meta tags
 * [ember-service-worker](https://github.com/DockYard/ember-service-worker)
+
+# Performance
+* [Speed up Ember Data with JSON API](https://emberweekend.com/episodes/run-ember-data-canary) - Listen around 13:00
